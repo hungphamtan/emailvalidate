@@ -1,5 +1,5 @@
 {
-  "name": "emailvalidate",
+  "name": "@hungphamtanptc/emailvalidate",
   "version": "1.0.0",
   "description": "Simple function to validate a string is valid email format",
   "main": "index.js",
