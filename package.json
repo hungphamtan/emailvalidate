@@ -1,0 +1,27 @@
+{
+  "name": "emailvalidate",
+  "version": "1.0.0",
+  "description": "Simple function to validate a string is valid email format",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungphamtan/emailvalidate.git"
+  },
+  "keywords": [
+    "email",
+    "validate",
+    "validation"
+  ],
+  "author": "Hung Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungphamtan/emailvalidate/issues"
+  },
+  "homepage": "https://github.com/hungphamtan/emailvalidate#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
